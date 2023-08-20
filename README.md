@@ -2,3 +2,5 @@
 ## Giảng viên: Tiến sĩ Bùi Thanh Hùng
 ## Email: buithanhhung@iuh.edu.vn
 ## Website: https://sites.google.com/site/hungthanhbui1980/
+### SINH VIÊN: TRƯƠNG VĂN THÔNG
+### Email: truongvantthong@gmail.com
