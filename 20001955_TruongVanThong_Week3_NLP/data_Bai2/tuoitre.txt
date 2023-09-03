@@ -1,0 +1,104 @@
+Thành Phố Hồ Chí Minh Và Hành Trình Vươn Đến Đô Thị Thông Minh
+TTO - Để trở thành đô thi thông minh với nhiều tiện ích trong quản lý nhà nước, phục vụ người dân và doanh nghiệp là cả một quá trình lâu dài. Bằng quyết tâm chính trị cao và nhiều nỗ lực từ cấp thành phố đến cơ sở, những nền móng đầu tiên của đô thị thông minh đã được dựng lên. Sau 18 tháng triển khai thực hiện, diện mạo đô thị thông minh dần hình thành và ngày một rõ nét.
+Tuổi Trẻ Online xin điểm qua những kết quả nổi bật bước đầu trong hành trình xây dựng đô thị thông minh nhằm giúp bạn đọc hình dung rõ hơn những việc mà TP.HCM đang thực hiện.
+Sau quá trình bàn thảo thận trọng đầy trách nhiệm của các cấp lãnh đạo, lắng nghe ý góp ý của nhiều chuyên gia, nhà khoa học, chắt lọc kinh nghiệm của nhiều nước trên thế giới, ngày 23-11-2017, chủ tịch UBND TP.HCM Nguyễn Thành Phong ký quyết định phê duyệt đề án Xây dựng TP.HCM trở thành đô thị thông minh giai đoạn 2017-2020, tầm nhìn đến năm 2025.
+Từ cơ sở pháp lý quan trọng này, TP.HCM bắt tay triển khai hàng loạt các khâu trọng yếu.
+Triển khai đề án đô thị thông minh TP. HCM
+Nếu hình dung đô thị thông minh như một ngôi nhà thì 4 cột trụ chống đỡ ngôi nhà ấy chính là 4 trung tâm được TP.HCM đầu tư xây dựng đầu tiên bao gồm:
+- Kho dữ liệu dùng chung và hệ sinh thái dữ liệu mở
+- Trung tâm điều hành đô thị thông minh
+- Trung tâm an toàn thông tin TP
+- Trung tâm mô phỏng dự báo kinh tế - xã hội
+Đến nay, diện mạo của 4 trung tâm này cũng đã dần định hình.
+1.Kho dữ liệu dùng chung và hệ sinh thái mở.
+
+Theo bà Võ Thị Trung Trinh, phó Giám đốc Sở Thông tin - Truyền thông TP.HCM, tháng 1-2019, kho dữ liệu dùng chung của TP giai đoạn 1 đã đi vào hoạt động tại Công viên phần mềm Quang Trung.
+Kho dữ liệu này được triển khai trên 3 nền tảng gồm: Cơ sở dữ liệu nền địa hình, địa chính(Bản đò địa chính và dữ liệu quản lí đất đai, dữ liệu nền thông tin địa lý), Cơ sở dữ liệu người dân (Dữ liệu dân cư thường trú,tạm trú -Dữ liệu hộ tịch), Cơ sở dữ liệu doanh nghiệp (Dữ liệu đăng kí doanh nghiệp – Dữ liệu người nộp thuế - Dữ liệu xuất nhập khẩu)
+Đến thời điểm này, kho dữ liệu đã tích hợp được cơ sở dữ liệu văn bản điện tử, một cửa điện tử, cơ sở dữ liệu về khiếu nại tố cáo, đường dây nóng, đăng ký doanh nghiệp, đầu tư nước ngoài, dự án đầu tư công, địa chính, các cơ sở khám chữa bệnh, chứng chỉ hành nghề, các cơ sở giáo dục, dịch vụ giáo dục.
+Tại cổng dữ liệu mở https://data.hochiminhcity.gov.vn hiện đã công khai dữ liệu về cơ sở khám chữa bệnh, chứng chỉ hành nghề, cơ sở giáo dục, dịch vụ giáo dục, dự án đầu tư nước ngoài và dự án đầu tư công.
+Phương hướng sắp tới sẽ tích hợp thêm nhiều dữ liệu mở để phục vụ người dân tra cứu, chẳng hạn như bổ sung dữ liệu về kết luận thanh tra từ năm 2016 đến nay, đăng kí doanh nghiệp, danh mục dự án kêu gọi đầu tư, cơ sở dữ liệu ngành y tế, dịch vụ y tế, cơ sở dữ liệu địa chính, giao thông.
+
+Ngoài ra tới đây, TP.HCM sẽ triển khai thử nghiệm các ứng dụng khai thác kho dữ liệu dùng chung như:
+- Dịch vụ khai thác dữ liệu thông tin hộ kinh doanh cá thể.
+- Dịch vụ khai thác cơ sở dữ liệu người dân (như ứng dụng công dân điện tử cho phép người dân tra cứu dữ liệu hộ tịch điện tử, cung cấp các tiện ích cho người dân trên Cổng dịch vụ công của TP).
+- Dịch vụ khai thác dữ liệu văn bản điện tử.
+- Dịch vụ khai thác dữ liệu thủ tục hành chính, hồ sơ hành chính.
+2.Trung tâm điều hành đô thi thông minh.
+Trung tâm điều hành đô thị thông minh vận hành chính thức từ 15-4-2019. Tuy nhiên, quá trình xây dựng Trung tâm không hề dễ dàng. Đây là việc chưa từng có tiền lệ, chưa có mô hình tương tự với điều kiện như của TP.HCM để tham khảo.
+Tại các nước như Mỹ, Anh, Nga, Pháp... đã triển khai các trung tâm dạng này ở nhiều quy mô khác nhau. Tuy nhiên là chi phí đầu tư rất lớn, thời gian triển khai lâu dài trên nền tảng hạ tầng công nghệ thông tin phát triển cao. Trong khi đó, trình độ ứng dụng CNTT trong các lĩnh vực, đặc biệt là trong quản lý hạ tầng đô thị của TP.HCM còn thua kém các nước phát triển.
+Tiến sĩ  Lê Quốc Cường, phó Giám đốc Sở Thông tin – Truyền thông TP.HCM cho biết trong giai đoạn 1, TP đã thí điểm kết nối, tích hợp dữ liệu hơn 1000 camera từ hệ thống camera giám sát của Sở Giao thông – Vận tải, UBND các quận 1, 12, Phú Nhuận, Gò Vấp về trung tâm điều hành. Trong đó đã phân tích, nâng cao dữ liệu cùng lúc 50 camera với tính năng như: nhận diện khuôn mặt, nhận dạng các loại phương tiện, phát hiện đám đông, các sự cố về an ninh, trật tư…
+Từ thực tế đó, TP.HCM đã triển khai xây dựng Trung tâm điều hành đô thị thông minh với tinh thần: đáp ứng các điều kiện có sẵn nhưng vẫn đảm bảo mở rộng trong tương lai.
+Nếu như Kho dữ liệu được ví như trái tim cung cấp dữ liệu thì Trung tâm điều hành đô thị thông minh được xem là thần kinh trung ương, là nơi tiếp nhận các vấn đề phát sinh từ mọi mặt của xã hội để tổng hợp và hỗ trợ lãnh đạo TP.HCM đưa ra quyết sách.
+Ngoài ra Trung tâm còn kết nối thông tin tổng hợp từ Hệ thống tiếp nhận và phản ánh sự cố hạ tầng kỹ thuật đô thị 1022, từng bước nâng cấp hệ thống đầu số 1022 thành Cổng thông tin tiếp nhận và giải đáp thông tin cho người dân qua 6 kênh phản ánh (gọi điện thoại, nhắn tin sms, gửi email, web app, mobile app, facebook).
+Trung tâm điều hành đô thị thông minh còn có:
+- Hệ thống tiếp nhận và xử lý thông tin khẩn cấp hợp nhất từ hệ thống các đầu số tổng đài 113-114-115. Hiện Sở Thông tin - Truyền thông, Công an TP và Sở Y tế đang triển khai giải pháp nâng cấp hệ thống tổng đài khẩn cấp liên thông 113 - 114 - 115 và kết nối hệ thống chỉ huy điều hành của các đơn vị.
+- Hệ thống quản lý hạ tầng đô thị: từ việc tổng hợp, kết nối dữ liệu hệ thống lưới điện, dữ liệu hệ thống cấp nước, dữ liệu hệ thống thoát nước, dữ liệu camera giao thông và dữ liệu quan trắc môi trường, dữ liệu hệ thống camera giao thông toàn TP - thông quan trung tâm điều hành đô thị thông minh - lãnh đạo TP.HCM có thể giám sát chỉ huy, tiếp nhận thông tin đa phương tiện, tiếp nhận thông tin khẩn cấp cũng như mở rộng phạm vi quản lý đến tận cấp phường, xã, tăng cường phối hợp giữa các đơn vị.
+Trong giai đoạn từ 2019-2025, TP.HCM sẽ triển khai hệ thống viễn thông và điện thoại di động thế hệ 5G: thí điểm 5G tại các quận 1,7,10 (Viettel thí điểm 10 vị trí, Mobifone thí điểm 12 vị trí)
+Vào tháng 9-2019 sẽ tổ chức cuộc gọi 5G đầu tiên tại TP.HCM.
+3. Trung tâm mô phỏng và dự báo kinh tế xã hội.
+Đến nay đã hoàn thành tập tài liệu tổng hợp các phương pháp khoa học về dự báo. Trên cơ sở đó đã ứng dụng các mô hình dự báo chuỗi thời gian để dự báo một số chỉ tiêu kinh tế xã hội cho các năm 2019-2020.
+Đội ngũ xây dựng trung tâm này cũng đã ứng dụng công nghệ trực quan hóa dữ liệu để xây dựng bộ trình diễn dữ liệu và kết quả dự báo xu hướng phát triển của các chỉ số kinh tế.
+Khi trung tâm này được vận hành, khả năng dự báo của nền kinh tế sẽ có tính chính xác cao hơn, làm cơ sở để TP.HCM đề ra những quyết sách kịp thời, phù hợp.
+Phương hướng sắp tới, trung tâm sẽ phát triển mạng lưới chuyên gia và tổ chức hợp tác về phân tích, dự báo, mô phỏng.
+4. Trung tâm an toàn thông tin thành phố.
+Đến nay, đã có quyết định phê duyệt đề án thành lập Công ty cổ phần vận hành trung tâm An toàn thông tin TP.HCM. 
+Công ty này có phần vốn Nhà nước chiếm 51% , ngoài ra có sự tham gia góp vốn của các doanh nghiệp nhà nước, tư nhân có kinh ngiệm trong lĩnh vực an ninh thông tin.
+B. Những đô thị thông minh thu nhỏ.
+Quận 1 và quận 12 là hai địa phương được TP.HCM chọn thí điểm triển khai đề án đô thị thông minh. Ngoài ra trong một số lĩnh vực như giao thông, y tế, chống ngập, quy hoạch... cũng có bước triển khai ban đầu các mô hình, ứng dụng thông minh phục vụ người dân.
+Đây được xem là quá trình xây dựng những đô thị thông minh thu nhỏ của TP. Kinh nghiệm thực tiễn thu được sau thời gian thí điểm sẽ là vốn quý để TP.HCM sơ kết, đánh giá, làm cơ sở cho việc nhân rộng toàn TP.
+1.Quá trình thí điểm ở quận 12.
+Ông Lê Trương Hải Hiếu, chủ tịch UBND quận 12 cho biết quận 12 đã xây dựng trung tâm chỉ huy hình ảnh và an ninh đặt tại trụ sở công an quận.
+Trung tâm này tích hợp 600 camera hiện hữu tại các khu dân cư. Hiện quận đang triển khai giai đoạn 2: Sẽ lắp đặt tiếp 287 camera tại 161 điểm nóng, vị trí trọng điểm và 14 giao lộ cần giám sát.
+Bên cạnh đó, quận 12 cũng đã triển khai ứng dụng Công nghệ thông tin phục vụ công tác chỉ đạo điều hành: 
+- Thực hiện phần mềm quản lý văn bản và hồ sơ
+- Phần mềm quản lý hồ sơ hành chính
+- Hệ thống quản lý địa bàn dân cư 
+- Hệ thống thông tin quy hoạch
+- Ứng dụng ảnh viễn thám trong quản lý đô thị, tài nguyên môi trường 
+- Hệ thống đánh giá đo lường hiệu quả công việc của cán bộ, công chức, viên chức, quản lý công chức qua việc sử dụng thẻ công nghệ RFID
+Để tăng cường tương tác với người dân, doanh nghiệp, quận 12 triển khai các giải pháp như: dịch vụ công trực tuyến, thanh toán trực tuyến, hệ thống trả lời tự động để hướng dẫn thủ tục hành chính, tiếp nhận, quản lý trả lời phản ánh của người dân qua Facebook, Zalo.
+2. Quá trình thí điểm ở Quận 1:
+Đã triển khai Trung tâm điều hành đô thị thông minh đặt tại trụ sở UBND quận 1, tích hợp hệ thống camera ở địa bàn dân cư và công an 10 phường với tổng cộng 750 camera.
+Trong hơn một năm thí điểm, Trung tâm điều hành đô thị thông minh đã hỗ trợ tốt cho quận trong chỉ đạo, điều hành, xử lý các tình huống phát sinh, chống bạo động và các hành vi gây rối trật tự công cộng.
+3. Kết quả bước đầu trong lĩnh vực giao thông.
+- Triển khai cổng thông tin giao thông cung cấp trực tuyến cho người dân về tình hình giao thông
+- Hệ thống camera giám sát giao thông với 713 camera
+- Nâng cấp hệ thống điều khiển giao thông hiện hữu : thay thế 188 tủ đèn tín hiệu điều khiển giao thông thông minh, 100 cảm biến đo đếm lưu lượng, 50 camera giám sát giao thông, 6 vị trí kiểm soát tốc độ phương tiện
+- Nâng cấp hệ thống thu phí đường bộ không dừng tại trạm thu phí An Sương - An Lạc và cầu Phú Mỹ.
+- Đang triển khai thí điểm sử dụng vé điện tử smartcard dành cho xe bus.
+- Đang triển khai ứng dụng hệ thống thông tin địa lý GIS phục vụ công tác quản lý giao thông đô thị.
+4. Kết quả trong lĩnh vực giáo dục.
+Đã triển khai thử nghiệm Cổng thông tin khai thác các dịch vụ giáo dục tại địa chỉ http://dichvugiaoduc.hcm.edu.vn cung cấp thông tin 6 loại hình dịch vụ giáo dục được cấp phép:
+- Trung tâm ngoại ngữ tin học
+- Cơ sở dạy thêm học thêm
+- Cơ sở giáo dục kỹ năng sống
+- Đơn vị tư vấn du học
+- Đơn vị giáo dục có yếu tố nước ngoài
+- Các trường THPT ngoài công lập.
+5. Kết quả trong  lĩnh vực y tế.
+Triển khai Cổng thông tin ngành y tế cung cấp thông tin thuộc các lĩnh vực khám chữa bệnh, y tế dự phòng, tra cứu trực tuyến về giấy phép, phạm vi hoạt động chuyên môn của người hành nghề và cơ sở y tế.
+- Triển khai hệ thống GIS cho y tế dự phòng thí điểm phòng chống sốt xuất huyết và mở rộng sang các bệnh truyền nhiễm khác
+- Triển khai hội chẩn từ xa cho 24 trạm y tế mô hình điểm. Hỗ trợ kết nối giữa bác sĩ ở các trạm y tế với bác sĩ chuyên khoa bệnh viện lớn.
+- Kết nối liên thông cơ sở dữ liệu của trên 6.000 cơ sở cung ứng thuốc tại TP.HCM với cơ sở dữ liệu dược quốc gia.
+6. Kết quả trong lĩnh vực chống ngập.
+Triển khai Cổng thông tin Hệ thống thoát nước TP.HCM tại địa chỉ https://chongngap.hochiminhcity.gov.vn với các thông tin về ngập lụt, khí tượng thủy văn giúp người dân chủ động ứng phó ngập lụt.
+- Đã hoàn thành xây dựng cơ sở dữ liệu mạng lưới thoát nước ở quận 1. Hiện đang mở rộng bổ sung sang các quận huyện còn lại.
+7. Kết quả trong lĩnh vực quy hoạch.
+- Đã triển khai ứng dụng về Thông tin quy hoạch TP.HCM tại địa chỉ https://thongtinquyhoach.hochiminhcity.gov.vn trong đó cung cấp dưới dạng bảng đồ hình ảnh các thông tin quy hoạch sử dụng đất, quy hoạch giao thông, quy hoạch cao độ nền... với quy mô toàn TP và riêng tại khu vực trung tâm hiện hữu TP, khu Thủ Thiêm, quận 12 và quận Thủ Đức.
+- Đã xây dựng hệ thống dữ liệu về cao độ nền dưới dạng bản đồ hình ảnh và dữ liệu số các quận 1,3,6,8,10,11, Tân Phú, Phú Nhuận, Bình Thạnh, Gò Vấp. Đang tiếp tục bổ sung các quận huyện còn lại.
+Số liệu về kinh phí:
+Năm 2019: TP.HCM bố trí 500 tỉ đồng từ ngân sách sự nghiệp để thực hiện đề án. Cụ Thể:
+Kho dữ liệu dung chung 405 tỉ đồng.
+Trung tâm điều hành đô thị thông minh 23 tỉ đồng
+Trung tâm mô phỏng, dự báo kinh tế xã hội 25 tỉ đồng
+Các nội dung khác 47 tỉ đồng
+Năm 2020: Nhu cầu dự kiến khoảng 511 tỉ đồng trong ngân sách sự nghiệp. Trong đó:
+Kho dữ liệu dùng chung 420 tỉ đồng.
+Trung tâm điều hành đô thị thông minh 30 tỉ đồng
+Trung tâm mô phỏng, dự báo kinh tế xã hội 25 tỉ đồng
+Các nội dung khác 36 tỉ đồng
+
+
+
+
+

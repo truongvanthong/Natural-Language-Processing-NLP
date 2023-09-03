@@ -1,0 +1,206 @@
+Câu 1: Training the Next Generation of Indigenous Data Scientists
+Không có tên riêng trong câu này.
+
+Câu 2: A new workshop explores the right of Indigenous people to govern the collection, ownership and use of their biological and cultural data.
+Không có tên riêng trong câu này.
+
+Câu 3: When Krystal Tsosie introduces her genomics students to the concept of biocommercialism — the extraction of biological resources from Indigenous communities without benefit — she always uses the same example: the Human Genome Diversity Project.
+Danh sách tên riêng:
+- PERSON: Krystal Tsosie
+- ORGANIZATION: Human Genome Diversity Project
+
+Câu 4: The researchers who conceived of the project in the 1990s aimed to collect samples from human populations around the world, with particular emphasis on what they deemed “vanishing” Indigenous populations. “A lot of that information is now publicly available to advance the course of science,” said Ms. Tsosie, a genetics researcher at Vanderbilt University and a member of the Navajo Nation. “But who accesses these data sets?”
+Danh sách tên riêng:
+- DATE: the 1990s now
+- PERSON: Tsosie
+- TITLE: researcher
+- ORGANIZATION: Vanderbilt University Navajo Nation
+
+Câu 5: Ms. Tsosie, answering her own question, cited as examples Ancestry and 23andMe, two companies that commercialize and profit from Indigenous genomic data sourced without consent from people in Central and South America. In 2018, GlaxoSmithKline invested $300 million in 23andMe and paid for a four-year partnership enabling it to use 23andMe’s database of digital sequence information. In 2020, 23andMe licensed a drug compound it developed from its trove of consensually sourced genetic information.
+Danh sách tên riêng:
+- PERSON: Tsosie
+- NUMBER: two
+- MISC: Indigenous
+- LOCATION: Central and South
+- COUNTRY: America
+- DATE: 2018 2020
+- ORGANIZATION: GlaxoSmithKline
+- MONEY: $ 300 million
+- DURATION: four - year
+
+Câu 6: Accordingly, Ms. Tsosie helped to organize IndigiData, a four-day remote workshop that took place for the first time in June. The workshop’s core goal was to introduce data science skills to undergraduates and graduates, and the definition of data was expansive, from the genetic sequences of soil microbiomes to traditional worldviews.
+Danh sách tên riêng:
+- PERSON: Tsosie
+- ORGANIZATION: IndigiData
+- DURATION: four - day
+- ORDINAL: first
+- DATE: June
+
+Câu 7: “If you can’t view oral history as data, as something that can be parsed and archived and used to predict things, then you’re missing out on a whole data set,” said Keolu Fox, a Native Hawaiian geneticist at the University of California, San Diego, who presented at the workshop.
+Danh sách tên riêng:
+- PERSON: Keolu Fox
+- TITLE: geneticist
+- ORGANIZATION: University of California
+- CITY: San Diego
+
+Câu 8: The workshop centered on Indigenous data sovereignty, the idea that nations have the right to govern the collection, ownership and application of their own data. The movement pushes back on a long history of how researchers have taken Native data without permission, often stigmatizing the communities who participated or disregarding their customs surrounding the dead. In one infamous example, an Arizona State University researcher studying the high rates of diabetes in the Havasupai Tribe, who live near the Grand Canyon, gave other researchers access to the samples without the tribe’s consent. When the Havasupai learned of this, they went to court, won their samples back and banished the university from their borders.
+Danh sách tên riêng:
+- MISC: Indigenous Havasupai
+- NUMBER: one
+- ORGANIZATION: Arizona State University
+- TITLE: researcher
+- CAUSE_OF_DEATH: diabetes
+- LOCATION: Havasupai Tribe Grand
+- CITY: Canyon
+
+Câu 9: “Why are we over here spitting in tubes, giving our genomes away when we know that type of information can be used to make pharmaceutical drugs?” Dr. Fox asked. “Why not position ourselves so we’re in control of a treasure chest of data?”
+Danh sách tên riêng:
+- CRIMINAL_CHARGE: drugs
+- PERSON: Fox
+
+Câu 10: Organizing the Conference
+Không có tên riêng trong câu này.
+
+Câu 11: Ms. Tsosie, one of the leaders of the conference, started her career in cancer biology. But she realized early on that any success she might have developing a cancer therapy drug might never reach her own community. Ms. Tsosie’s father worked for the Phoenix Indian Medical Center in Arizona for 42 years, and she remembered how difficult it was for her tribal community to access specialty services.
+Danh sách tên riêng:
+- PERSON: Tsosie Tsosie
+- NUMBER: one
+- CAUSE_OF_DEATH: cancer cancer
+- ORGANIZATION: Phoenix Indian Medical Center
+- STATE_OR_PROVINCE: Arizona
+- DURATION: 42 years
+
+Câu 12: “What am I doing in cancer biology?” Ms. Tsosie remembered thinking. She switched her academic focus and is now a graduate student in genomics and health disparities.
+Danh sách tên riêng:
+- CAUSE_OF_DEATH: cancer
+- PERSON: Tsosie
+- DATE: now
+- TITLE: student
+
+Câu 13: In 2012, Ms. Tsosie met Joseph M. Yracheta, who is of the P’urhepecha and Raramuri peoples, through the Summer Internship for Indigenous Peoples in Genomics, a workshop that trains researchers in genetic science. They started talking about data ethics, and a few years later Matt Anderson, a microbiologist at Ohio State University and a descendant of the Eastern Band of Cherokee Indians, joined the conversation. The organizers recognized that there were limited resources to train Indigenous people how to think about and interpret their data.
+Danh sách tên riêng:
+- DATE: 2012 a few years later
+- PERSON: Tsosie Joseph M. Yracheta Matt Anderson
+- LOCATION: Raramuri
+- ORGANIZATION: Summer Internship for Indigenous Peoples in Genomics Ohio State University
+- TITLE: microbiologist
+
+Câu 14: In January, with funding from the Amgen Foundation and the National Science Foundation, the workshop began to take shape. The participants hail from Indigenous communities across the country and internationally, and have wide-ranging research interests, such as archaeology and pollinators. “What ties us together is colonialism,” Dr. Fox said, and laughed.
+Danh sách tên riêng:
+- DATE: January
+- ORGANIZATION: Amgen Foundation National Science Foundation
+- MISC: Indigenous
+- PERSON: Fox
+
+Câu 15: The Environmental Microbiome
+Không có tên riêng trong câu này.
+
+Câu 16: The theme of the inaugural conference was environmental microbiomes, which the organizers felt would resonate with participants. An individual’s microbiomes — the communities of microorganisms that live inside and on a person — is deeply intertwined with the surroundings; for instance, the composition of the gut microbiome can be altered by diet as well as air pollution.
+Không có tên riêng trong câu này.
+
+Câu 17: In recent years, the “vanishing” rhetoric of the Human Genome Diversity Project has shifted to refer to the “vanishing” microbiome of traditional communities, Dr. Anderson said. “Except instead of people, they’re talking about the microbes associated with people,” Dr. Anderson said. One 2018 article in the journal Science emphasized the need to collect samples from “traditional peoples in developing countries” in order “to capture and preserve the human microbiota while it still exists.”
+Danh sách tên riêng:
+- DURATION: recent years
+- ORGANIZATION: Human Genome Diversity Project
+- PERSON: Anderson Anderson
+- NUMBER: One
+- DATE: 2018
+
+Câu 18: Mr. Yracheta, who is the managing director of the Native BioData Consortium — the first biobank in the U.S. led by Indigenous scientists and tribal members — believes the microbiome will be one of the next targeted data sets that Western scientists may seek from Indigenous communities. In Tanzania, the Hadza people have been studied extensively for the “richness and biodiversity” of their gut microbiota.
+Danh sách tên riêng:
+- PERSON: Yracheta
+- TITLE: managing director
+- ORGANIZATION: Native BioData Consortium
+- ORDINAL: first
+- COUNTRY: U.S. Tanzania
+- MISC: Indigenous Western
+- NUMBER: one
+
+Câu 19: “Native DNA is so sought after that people are looking for proxy data, and one of the big proxy data is the microbiome” Mr. Yracheta said. “If you’re a Native person, you have to consider all these variables if you want to protect your people and your culture.”
+Danh sách tên riêng:
+- NUMBER: one
+- PERSON: Yracheta
+- MISC: Native
+
+Câu 20: In a presentation at the conference, Joslynn Lee, a member of the Navajo, Laguna Pueblo and Acoma Pueblo Nations and a biochemist at Fort Lewis College in Durango, Colo., spoke about her experience tracking the changes in microbial communities in rivers that experienced a mine wastewater spill in Silverton, Colo. Dr. Lee also offered practical tips on how to plan a microbiome analysis, from collecting a sample to processing it.
+Danh sách tên riêng:
+- PERSON: Joslynn Lee Lee
+- LOCATION: Navajo Silverton
+- CITY: Laguna Pueblo Durango
+- ORGANIZATION: Acoma Pueblo Nations Fort Lewis College
+- TITLE: biochemist
+- STATE_OR_PROVINCE: Colo. Colo
+
+Câu 21: In a data-science career panel, Rebecca Pollet, a biochemist and a member of the Cherokee Nation, noted how many mainstream pharmaceutical drugs were developed based on the traditional knowledge and plant medicine of Native people. The anti-malarial drug quinine, for example, was developed from the bark of a species of Cinchona trees, which the Quechua people historically used as medicine. Dr. Pollet, who studies the effects of pharmaceutical drugs and traditional food on the gut microbiome, asked: “How do we honor that traditional knowledge and make up for what’s been covered up?”
+Danh sách tên riêng:
+- PERSON: Rebecca Pollet Pollet
+- TITLE: biochemist
+- ORGANIZATION: Cherokee Nation
+- CRIMINAL_CHARGE: drugs drugs
+- MISC: Quechua
+
+Câu 22: One participant, the Lakota elder Les Ducheneaux, added that he believed that medicine derived from traditional knowledge wrongly removed the prayers and rituals that would traditionally accompany the treatment, rendering the medicine less effective. “You constantly have to weigh the scientific part of medicine with the cultural and spiritual part of what you’re doing,” he said.
+Danh sách tên riêng:
+- NUMBER: One
+- MISC: Lakota
+- PERSON: Les Ducheneaux
+
+Câu 23: IndigiData in the Future
+Danh sách tên riêng:
+- DATE: the Future
+
+Câu 24: Over the course of the IndigiData conference, participants also discussed ways to take charge of their own data to serve their communities.
+Không có tên riêng trong câu này.
+
+Câu 25: Mason Grimshaw, a data scientist and a board member of Indigenous in A.I., talked about his research with language data on the International Wakashan A.I. Consortium. The consortium, led by an engineer, Michael Running Wolf, is developing an automatic speech recognition A.I. for Wakashan languages, a family of endangered languages spoken among several First Nations communities. The researchers believe automatic speech recognition models can preserve fluency in Wakashan languages and revitalize their use by future generations.
+Danh sách tên riêng:
+- PERSON: Mason Grimshaw Michael Running Wolf
+- TITLE: scientist engineer
+- MISC: Indigenous
+- ORGANIZATION: International Wakashan A.I. Consortium First Nations
+- LOCATION: Wakashan Wakashan
+- DATE: future
+
+Câu 26: Typical language models, such as Apple’s voice-controlled Siri, often try to predict the next word, or set of words, based on the start of a sentence or a prompt. But such models might falter under the cultural nuances of many Indigenous languages, Mr. Grimshaw noted. “The Wakashan folks have certain stories you would only tell in certain kinds of weather or at certain times of day,” he said, by way of example.
+Danh sách tên riêng:
+- PERSON: Siri Grimshaw
+- MISC: Wakashan
+- DURATION: day
+
+Câu 27: Additionally, many Indigenous languages are polysynthetic; they do not have fixed vocabularies but rely instead on the recombinations of small building blocks of words. A polysynthetic language like Lakota technically allows there to be infinite words, Mr. Grimshaw said. Indigenous languages often have much less recorded language data to analyze, such as audio files of speakers in conversation, than more common languages do.
+Danh sách tên riêng:
+- MISC: Lakota
+- PERSON: Grimshaw
+
+Câu 28: Mr. Grimshaw sees these complications not as a problem but as a puzzle to be unscrambled. When asked about his wildest data dreams by a participant at the conference, Mr. Grimshaw smiled. “I want a Lakota version of Siri,” he said.
+Danh sách tên riêng:
+- PERSON: Grimshaw Grimshaw Siri
+- CAUSE_OF_DEATH: complications
+- MISC: Lakota
+
+Câu 29: IndigiData has funding for the next four years, and the organizers hope that the conference next year will be held in person at the Native BioData Consortium on the Cheyenne River Sioux Reservation. That location, Dr. Anderson noted, is a one-day drive from 13 tribal colleges.
+Danh sách tên riêng:
+- ORGANIZATION: IndigiData
+- DURATION: the next four years one - day
+- DATE: next year
+- CITY: Cheyenne
+- TITLE: River
+- LOCATION: Sioux Reservation
+- PERSON: Anderson
+- NUMBER: 13
+
+Câu 30: Dr. Fox hopes the conference will train the next generation of Indigenous data scientists not just to protect their data but to be empowered by its possibilities.
+Danh sách tên riêng:
+- PERSON: Fox
+
+Câu 31: “I’m not saying that I like capitalism,” he said. “But data is power, and that’s the way for us to revitalize our communities.”
+Danh sách tên riêng:
+- IDEOLOGY: capitalism
+
+Câu 32: A correction was made on July 2, 2021: An earlier version of this article misstated the terms of business deals made between GlaxoSmithKline and 23andMe in 2018. GlaxoSmithKline invested $300 million in 23andMe; that sum did not purchase access to 23andMe’s database of digital sequence information. GlaxoSmithKline paid separately for a four-year partnership enabling it to use that information.
+Danh sách tên riêng:
+- DATE: July 2 , 2021 2018
+- ORGANIZATION: GlaxoSmithKline GlaxoSmithKline GlaxoSmithKline
+- MONEY: $ 300 million
+- DURATION: four - year
+

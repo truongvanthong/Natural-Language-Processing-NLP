@@ -1,0 +1,231 @@
+Câu 1: Thành_Phố Hồ_Chí_Minh Và Hành_Trình Vươn_Đến_Đô_Thị Thông_Minh
+Dependency: Thành_Phố(root), Hồ_Chí_Minh(nmod), Và(coord), Hành_Trình(conj), Vươn_Đến_Đô_Thị(nmod), Thông_Minh(nmod)
+Câu 2: TTO - Để trở_thành_đô thi thông_minh với nhiều tiện_ích trong quản_lý_nhà_nước , phục_vụ người_dân và doanh_nghiệp là cả một quá_trình lâu_dài .
+Dependency: TTO(sub), -(punct), Để(nmod), trở_thành_đô(vmod), thi(vmod), thông_minh(vmod), với(vmod), nhiều(nmod), tiện_ích(pob), trong(nmod), quản_lý_nhà_nước(pob), ,(punct), phục_vụ(vmod), người_dân(vmod), và(coord), doanh_nghiệp(conj), là(root), cả(nmod), một(det), quá_trình(vmod), lâu_dài(nmod), .(punct)
+Câu 2: Bằng quyết_tâm chính_trị cao và nhiều nỗ_lực từ cấp thành_phố đến cơ_sở , những nền_móng đầu_tiên của đô_thị thông_minh đã được dựng lên .
+Dependency: Bằng(mnr), quyết_tâm(pob), chính_trị(nmod), cao(nmod), và(coord), nhiều(nmod), nỗ_lực(conj), từ(loc), cấp(pob), thành_phố(nmod), đến(pmod), cơ_sở(pob), ,(punct), những(det), nền_móng(sub), đầu_tiên(nmod), của(nmod), đô_thị(pob), thông_minh(nmod), đã(adv), được(root), dựng(vmod), lên(adv), .(punct)
+Câu 2: Sau 18 tháng triển_khai thực_hiện , diện_mạo đô_thị thông_minh dần hình_thành và ngày_một rõ nét .
+Dependency: Sau(tmp), 18(det), tháng(pob), triển_khai(nmod), thực_hiện(vmod), ,(punct), diện_mạo(root), đô_thị(dob), thông_minh(nmod), dần(amod), hình_thành(vmod), và(coord), ngày_một(x), rõ(prd), nét(amod), .(punct)
+Câu 3: Tuổi_Trẻ Online xin điểm qua những kết_quả nổi_bật bước_đầu trong hành_trình xây_dựng đô_thị thông_minh nhằm giúp bạn_đọc hình_dung rõ hơn những việc mà TP. HCM đang thực_hiện .
+Dependency: Tuổi_Trẻ(sub), Online(nmod), xin(root), điểm(vmod), qua(mnr), những(det), kết_quả(pob), nổi_bật(nmod), bước_đầu(amod), trong(nmod), hành_trình(pob), xây_dựng(nmod), đô_thị(dob), thông_minh(nmod), nhằm(prp), giúp(vmod), bạn_đọc(dob), hình_dung(vmod), rõ(vmod), hơn(amod), những(det), việc(dob), mà(dep), TP.(sub), HCM(nmod), đang(adv), thực_hiện(nmod), .(punct)
+Câu 4: Sau quá_trình bàn_thảo thận_trọng đầy trách_nhiệm của các cấp lãnh_đạo , lắng_nghe ý góp_ý của nhiều chuyên_gia , nhà_khoa_học , chắt_lọc kinh_nghiệm của nhiều nước trên thế_giới , ngày 23-11-2017 , chủ_tịch UBND TP. HCM Nguyễn_Thành_Phong ký quyết_định phê_duyệt đề_án Xây_dựng TP. HCM trở_thành đô_thị thông_minh giai_đoạn 2017-2020 , tầm nhìn đến năm 2025 .
+Dependency: Sau(tmp), quá_trình(pob), bàn_thảo(nmod), thận_trọng(vmod), đầy(nmod), trách_nhiệm(nmod), của(nmod), các(det), cấp(pob), lãnh_đạo(nmod), ,(punct), lắng_nghe(nmod), ý(sub), góp_ý(nmod), của(nmod), nhiều(nmod), chuyên_gia(pob), ,(punct), nhà_khoa_học(nmod), ,(punct), chắt_lọc(nmod), kinh_nghiệm(dob), của(nmod), nhiều(nmod), nước(pob), trên(loc), thế_giới(pob), ,(punct), ngày(nmod), 23-11-2017(det), ,(punct), chủ_tịch(nmod), UBND(nmod), TP.(nmod), HCM(nmod), Nguyễn_Thành_Phong(nmod), ký(vmod), quyết_định(vmod), phê_duyệt(vmod), đề_án(dob), Xây_dựng(nmod), TP.(dob), HCM(nmod), trở_thành(root), đô_thị(dob), thông_minh(nmod), giai_đoạn(nmod), 2017-2020(det), ,(punct), tầm(nmod), nhìn(nmod), đến(tmp), năm(pob), 2025(det), .(punct)
+Câu 5: Từ cơ_sở pháp_lý quan_trọng này , TP. HCM bắt_tay triển_khai hàng_loạt các khâu trọng_yếu .
+Dependency: Từ(tmp), cơ_sở(pob), pháp_lý(nmod), quan_trọng(nmod), này(det), ,(punct), TP.(sub), HCM(nmod), bắt_tay(root), triển_khai(vmod), hàng_loạt(dob), các(det), khâu(nmod), trọng_yếu(nmod), .(punct)
+Câu 6: Triển_khai đề_án đô_thị thông_minh TP. HCM
+Dependency: Triển_khai(root), đề_án(dob), đô_thị(nmod), thông_minh(nmod), TP.(nmod), HCM(nmod)
+Câu 7: Nếu hình_dung đô_thị thông_minh như một ngôi nhà thì 4 cột_trụ chống_đỡ ngôi nhà ấy chính là 4 trung_tâm được TP. HCM đầu_tư xây_dựng đầu_tiên bao_gồm :
+Dependency: Nếu(dep), hình_dung(root), đô_thị(dob), thông_minh(nmod), như(vmod), một(det), ngôi(vmod), nhà(nmod), thì(coord), 4(det), cột_trụ(sub), chống_đỡ(conj), ngôi(dob), nhà(nmod), ấy(det), chính(vmod), là(vmod), 4(det), trung_tâm(dob), được(nmod), TP.(nmod), HCM(nmod), đầu_tư(vmod), xây_dựng(vmod), đầu_tiên(vmod), bao_gồm(nmod), :(punct)
+Câu 8: - Kho dữ_liệu dùng chung và hệ_sinh_thái dữ_liệu mở
+Dependency: -(punct), Kho(sub), dữ_liệu(nmod), dùng(root), chung(vmod), và(coord), hệ_sinh_thái(sub), dữ_liệu(nmod), mở(conj)
+Câu 9: - Trung_tâm điều_hành đô_thị thông_minh
+Dependency: -(punct), Trung_tâm(root), điều_hành(nmod), đô_thị(dob), thông_minh(nmod)
+Câu 10: - Trung_tâm an_toàn thông_tin TP
+Dependency: -(punct), Trung_tâm(root), an_toàn(nmod), thông_tin(amod), TP(nmod)
+Câu 11: - Trung_tâm mô_phỏng dự_báo kinh_tế - xã_hội
+Dependency: -(punct), Trung_tâm(root), mô_phỏng(nmod), dự_báo(vmod), kinh_tế(vmod), -(punct), xã_hội(nmod)
+Câu 12: Đến nay , diện_mạo của 4 trung_tâm này cũng đã dần định_hình .
+Dependency: Đến(tmp), nay(pob), ,(punct), diện_mạo(sub), của(nmod), 4(det), trung_tâm(pob), này(det), cũng(adv), đã(adv), dần(adv), định_hình(root), .(punct)
+Câu 13: 1 . Kho dữ_liệu dùng chung và hệ_sinh_thái mở .
+Dependency: 1(tmp), .(punct), Kho(sub), dữ_liệu(nmod), dùng(root), chung(vmod), và(coord), hệ_sinh_thái(sub), mở(conj), .(punct)
+Câu 15: Theo bà Võ_Thị_Trung_Trinh , phó Giám_đốc Sở Thông_tin - Truyền_thông TP. HCM , tháng 1-2019 , kho dữ_liệu dùng chung của TP giai_đoạn 1 đã đi vào hoạt_động tại Công_viên phần_mềm Quang_Trung .
+Dependency: Theo(adv), bà(pob), Võ_Thị_Trung_Trinh(nmod), ,(punct), phó(nmod), Giám_đốc(nmod), Sở(nmod), Thông_tin(nmod), -(punct), Truyền_thông(nmod), TP.(nmod), HCM(nmod), ,(punct), tháng(nmod), 1-2019(det), ,(punct), kho(sub), dữ_liệu(nmod), dùng(nmod), chung(vmod), của(nmod), TP(pob), giai_đoạn(nmod), 1(det), đã(adv), đi(root), vào(vmod), hoạt_động(pob), tại(loc), Công_viên(pob), phần_mềm(nmod), Quang_Trung(nmod), .(punct)
+Câu 16: Kho dữ_liệu này được triển_khai trên 3 nền_tảng gồm : Cơ_sở_dữ_liệu nền địa_hình , địa_chính ( Bản đò địa_chính và dữ_liệu quản_lí đất_đai , dữ_liệu nền thông_tin địa_lý ) , Cơ_sở_dữ_liệu người_dân ( Dữ_liệu dân_cư thường_trú , tạm_trú - Dữ_liệu hộ_tịch ) , Cơ_sở_dữ_liệu doanh_nghiệp ( Dữ_liệu đăng_kí doanh_nghiệp – Dữ_liệu người nộp thuế - Dữ_liệu xuất_nhập_khẩu )
+Dependency: Kho(root), dữ_liệu(dob), này(det), được(vmod), triển_khai(vmod), trên(loc), 3(det), nền_tảng(pob), gồm(nmod), :(punct), Cơ_sở_dữ_liệu(vmod), nền(nmod), địa_hình(nmod), ,(punct), địa_chính(nmod), ((punct), Bản(nmod), đò(nmod), địa_chính(nmod), và(coord), dữ_liệu(conj), quản_lí(nmod), đất_đai(dob), ,(punct), dữ_liệu(sub), nền(nmod), thông_tin(nmod), địa_lý(nmod), )(punct), ,(punct), Cơ_sở_dữ_liệu(sub), người_dân(nmod), ((punct), Dữ_liệu(nmod), dân_cư(nmod), thường_trú(nmod), ,(punct), tạm_trú(adv), -(punct), Dữ_liệu(vmod), hộ_tịch(dob), )(punct), ,(punct), Cơ_sở_dữ_liệu(sub), doanh_nghiệp(nmod), ((punct), Dữ_liệu(dob), đăng_kí(nmod), doanh_nghiệp(nmod), –(punct), Dữ_liệu(nmod), người(nmod), nộp(nmod), thuế(dob), -(punct), Dữ_liệu(nmod), xuất_nhập_khẩu(nmod), )(punct)
+Câu 17: Đến thời_điểm này , kho dữ_liệu đã tích_hợp được cơ_sở_dữ_liệu văn_bản điện_tử , một cửa điện_tử , cơ_sở_dữ_liệu về khiếu_nại tố_cáo , đường_dây_nóng , đăng_ký doanh_nghiệp , đầu_tư nước_ngoài , dự_án đầu_tư công , địa_chính , các cơ_sở khám_chữa bệnh , chứng_chỉ hành_nghề , các cơ_sở giáo_dục , dịch_vụ giáo_dục .
+Dependency: Đến(tmp), thời_điểm(pob), này(det), ,(punct), kho(sub), dữ_liệu(nmod), đã(adv), tích_hợp(root), được(adv), cơ_sở_dữ_liệu(dob), văn_bản(nmod), điện_tử(nmod), ,(punct), một(det), cửa(dob), điện_tử(nmod), ,(punct), cơ_sở_dữ_liệu(nmod), về(nmod), khiếu_nại(vmod), tố_cáo(vmod), ,(punct), đường_dây_nóng(dob), ,(punct), đăng_ký(vmod), doanh_nghiệp(dob), ,(punct), đầu_tư(vmod), nước_ngoài(dob), ,(punct), dự_án(nmod), đầu_tư(nmod), công(vmod), ,(punct), địa_chính(sub), ,(punct), các(det), cơ_sở(sub), khám_chữa(nmod), bệnh(dob), ,(punct), chứng_chỉ(prd), hành_nghề(nmod), ,(punct), các(det), cơ_sở(dob), giáo_dục(nmod), ,(punct), dịch_vụ(nmod), giáo_dục(nmod), .(punct)
+Câu 18: Tại cổng dữ_liệu mở https://data.hochiminhcity.gov.vn hiện đã công_khai dữ_liệu về cơ_sở khám_chữa bệnh , chứng_chỉ hành_nghề , cơ_sở giáo_dục , dịch_vụ giáo_dục , dự_án đầu_tư nước_ngoài và dự_án đầu_tư công .
+Dependency: Tại(loc), cổng(pob), dữ_liệu(nmod), mở(root), https://data.hochiminhcity.gov.vn(dob), hiện(tmp), đã(adv), công_khai(dep), dữ_liệu(dob), về(nmod), cơ_sở(pob), khám_chữa(nmod), bệnh(dob), ,(punct), chứng_chỉ(nmod), hành_nghề(nmod), ,(punct), cơ_sở(nmod), giáo_dục(nmod), ,(punct), dịch_vụ(nmod), giáo_dục(nmod), ,(punct), dự_án(nmod), đầu_tư(nmod), nước_ngoài(nmod), và(coord), dự_án(conj), đầu_tư(nmod), công(vmod), .(punct)
+Câu 19: Phương_hướng sắp tới sẽ tích_hợp thêm nhiều dữ_liệu mở để phục_vụ người_dân tra_cứu , chẳng_hạn như bổ_sung dữ_liệu về kết_luận thanh_tra từ năm 2016 đến nay , đăng_kí doanh_nghiệp , danh_mục dự_án kêu_gọi đầu_tư , cơ_sở_dữ_liệu ngành y_tế , dịch_vụ y_tế , cơ_sở_dữ_liệu địa_chính , giao_thông .
+Dependency: Phương_hướng(sub), sắp(adv), tới(nmod), sẽ(adv), tích_hợp(root), thêm(vmod), nhiều(nmod), dữ_liệu(dob), mở(nmod), để(prp), phục_vụ(vmod), người_dân(vmod), tra_cứu(nmod), ,(punct), chẳng_hạn(x), như(coord), bổ_sung(conj), dữ_liệu(dob), về(vmod), kết_luận(pob), thanh_tra(nmod), từ(tmp), năm(pob), 2016(det), đến(pmod), nay(pob), ,(punct), đăng_kí(vmod), doanh_nghiệp(dob), ,(punct), danh_mục(sub), dự_án(nmod), kêu_gọi(dep), đầu_tư(vmod), ,(punct), cơ_sở_dữ_liệu(nmod), ngành(nmod), y_tế(nmod), ,(punct), dịch_vụ(nmod), y_tế(nmod), ,(punct), cơ_sở_dữ_liệu(nmod), địa_chính(nmod), ,(punct), giao_thông(nmod), .(punct)
+Câu 21: Ngoài_ra tới đây , TP. HCM sẽ triển_khai thử_nghiệm các ứng_dụng khai_thác kho dữ_liệu dùng chung như :
+Dependency: Ngoài_ra(dep), tới(tmp), đây(pob), ,(punct), TP.(sub), HCM(nmod), sẽ(adv), triển_khai(root), thử_nghiệm(vmod), các(det), ứng_dụng(dob), khai_thác(nmod), kho(dob), dữ_liệu(nmod), dùng(nmod), chung(vmod), như(nmod), :(punct)
+Câu 22: - Dịch_vụ khai_thác dữ_liệu thông_tin hộ kinh_doanh cá_thể .
+Dependency: -(punct), Dịch_vụ(root), khai_thác(nmod), dữ_liệu(dob), thông_tin(nmod), hộ(nmod), kinh_doanh(nmod), cá_thể(nmod), .(punct)
+Câu 23: - Dịch_vụ khai_thác cơ_sở_dữ_liệu người_dân ( như ứng_dụng công_dân điện_tử cho_phép người_dân tra_cứu dữ_liệu hộ_tịch điện_tử , cung_cấp các tiện_ích cho người_dân trên Cổng dịch_vụ công của TP ) .
+Dependency: -(punct), Dịch_vụ(sub), khai_thác(nmod), cơ_sở_dữ_liệu(dob), người_dân(nmod), ((punct), như(coord), ứng_dụng(conj), công_dân(dob), điện_tử(nmod), cho_phép(vmod), người_dân(dob), tra_cứu(nmod), dữ_liệu(dob), hộ_tịch(nmod), điện_tử(nmod), ,(punct), cung_cấp(root), các(det), tiện_ích(dob), cho(nmod), người_dân(pob), trên(loc), Cổng(pob), dịch_vụ(nmod), công(nmod), của(nmod), TP(pob), )(punct), .(punct)
+Câu 24: - Dịch_vụ khai_thác dữ_liệu văn_bản điện_tử .
+Dependency: -(punct), Dịch_vụ(root), khai_thác(nmod), dữ_liệu(dob), văn_bản(nmod), điện_tử(nmod), .(punct)
+Câu 25: - Dịch_vụ khai_thác dữ_liệu thủ_tục hành_chính , hồ_sơ hành_chính .
+Dependency: -(punct), Dịch_vụ(root), khai_thác(nmod), dữ_liệu(dob), thủ_tục(nmod), hành_chính(nmod), ,(punct), hồ_sơ(nmod), hành_chính(nmod), .(punct)
+Câu 26: 2 . Trung_tâm điều_hành đô thi thông_minh .
+Dependency: 2(det), .(punct), Trung_tâm(root), điều_hành(nmod), đô(dob), thi(nmod), thông_minh(nmod), .(punct)
+Câu 27: Trung_tâm điều_hành đô_thị thông_minh vận_hành chính_thức từ 15-4-2019 .
+Dependency: Trung_tâm(root), điều_hành(nmod), đô_thị(dob), thông_minh(nmod), vận_hành(nmod), chính_thức(vmod), từ(tmp), 15-4-2019(dep), .(punct)
+Câu 27: Tuy_nhiên , quá_trình xây_dựng Trung_tâm không hề dễ_dàng .
+Dependency: Tuy_nhiên(dep), ,(punct), quá_trình(sub), xây_dựng(nmod), Trung_tâm(vmod), không(amod), hề(amod), dễ_dàng(root), .(punct)
+Câu 27: Đây là việc chưa từng có tiền_lệ , chưa có mô_hình tương_tự với điều_kiện như của TP. HCM để tham_khảo .
+Dependency: Đây(sub), là(root), việc(dob), chưa(adv), từng(adv), có(nmod), tiền_lệ(dob), ,(punct), chưa(adv), có(vmod), mô_hình(dob), tương_tự(nmod), với(nmod), điều_kiện(pob), như(nmod), của(nmod), TP.(pob), HCM(nmod), để(prp), tham_khảo(vmod), .(punct)
+Câu 28: Tại các nước như Mỹ , Anh , Nga , Pháp ... đã triển_khai các trung_tâm dạng này ở nhiều quy_mô khác nhau .
+Dependency: Tại(loc), các(det), nước(pob), như(nmod), Mỹ(nmod), ,(punct), Anh(nmod), ,(punct), Nga(nmod), ,(punct), Pháp(nmod), ...(punct), đã(adv), triển_khai(root), các(det), trung_tâm(dob), dạng(nmod), này(det), ở(loc), nhiều(nmod), quy_mô(pob), khác(nmod), nhau(amod), .(punct)
+Câu 28: Tuy_nhiên là chi_phí đầu_tư rất lớn , thời_gian triển_khai lâu_dài trên nền_tảng hạ_tầng công_nghệ_thông_tin phát_triển cao .
+Dependency: Tuy_nhiên(dep), là(dep), chi_phí(sub), đầu_tư(nmod), rất(amod), lớn(root), ,(punct), thời_gian(tmp), triển_khai(nmod), lâu_dài(vmod), trên(loc), nền_tảng(pob), hạ_tầng(nmod), công_nghệ_thông_tin(nmod), phát_triển(nmod), cao(nmod), .(punct)
+Câu 28: Trong khi đó , trình_độ ứng_dụng CNTT trong các lĩnh_vực , đặc_biệt là trong quản_lý hạ_tầng đô_thị của TP. HCM còn thua_kém các nước phát_triển .
+Dependency: Trong(tmp), khi(pob), đó(det), ,(punct), trình_độ(sub), ứng_dụng(nmod), CNTT(vmod), trong(loc), các(det), lĩnh_vực(pob), ,(punct), đặc_biệt(nmod), là(amod), trong(amod), quản_lý(vmod), hạ_tầng(dob), đô_thị(nmod), của(nmod), TP.(pob), HCM(nmod), còn(adv), thua_kém(root), các(det), nước(dob), phát_triển(nmod), .(punct)
+Câu 29: Tiến_sĩ Lê_Quốc_Cường , phó Giám_đốc Sở Thông_tin – Truyền_thông TP. HCM cho biết trong giai_đoạn 1 , TP đã thí_điểm kết_nối , tích_hợp dữ_liệu hơn 1000 camera từ hệ_thống camera giám_sát của Sở Giao_thông – Vận_tải , UBND các quận 1 , 12 , Phú_Nhuận , Gò_Vấp về trung_tâm điều_hành .
+Dependency: Tiến_sĩ(sub), Lê_Quốc_Cường(nmod), ,(punct), phó(nmod), Giám_đốc(nmod), Sở(nmod), Thông_tin(nmod), –(punct), Truyền_thông(nmod), TP.(nmod), HCM(nmod), cho(root), biết(vmod), trong(tmp), giai_đoạn(pob), 1(det), ,(punct), TP(nmod), đã(adv), thí_điểm(vmod), kết_nối(vmod), ,(punct), tích_hợp(vmod), dữ_liệu(dob), hơn(nmod), 1000(det), camera(nmod), từ(tmp), hệ_thống(pob), camera(nmod), giám_sát(nmod), của(nmod), Sở(pob), Giao_thông(nmod), –(punct), Vận_tải(nmod), ,(punct), UBND(nmod), các(det), quận(nmod), 1(det), ,(punct), 12(det), ,(punct), Phú_Nhuận(nmod), ,(punct), Gò_Vấp(nmod), về(vmod), trung_tâm(dob), điều_hành(nmod), .(punct)
+Câu 29: Trong đó đã phân_tích , nâng cao dữ_liệu cùng lúc 50 camera với tính_năng như : nhận_diện khuôn_mặt , nhận_dạng các loại phương_tiện , phát_hiện đám đông , các sự_cố về an_ninh , trật tư …
+Dependency: Trong(loc), đó(pob), đã(adv), phân_tích(root), ,(punct), nâng(vmod), cao(vmod), dữ_liệu(dob), cùng(nmod), lúc(amod), 50(det), camera(nmod), với(nmod), tính_năng(pob), như(nmod), :(punct), nhận_diện(vmod), khuôn_mặt(vmod), ,(punct), nhận_dạng(vmod), các(det), loại(dob), phương_tiện(nmod), ,(punct), phát_hiện(vmod), đám(dob), đông(nmod), ,(punct), các(det), sự_cố(dob), về(nmod), an_ninh(pob), ,(punct), trật(nmod), tư(det), …(punct)
+Câu 30: Từ thực_tế đó , TP. HCM đã triển_khai xây_dựng Trung_tâm điều_hành đô_thị thông_minh với tinh_thần : đáp_ứng các điều_kiện có sẵn nhưng vẫn đảm_bảo mở_rộng trong tương_lai .
+Dependency: Từ(tmp), thực_tế(pob), đó(det), ,(punct), TP.(sub), HCM(nmod), đã(adv), triển_khai(root), xây_dựng(vmod), Trung_tâm(dob), điều_hành(nmod), đô_thị(nmod), thông_minh(nmod), với(nmod), tinh_thần(pob), :(punct), đáp_ứng(nmod), các(det), điều_kiện(dob), có(nmod), sẵn(vmod), nhưng(coord), vẫn(adv), đảm_bảo(conj), mở_rộng(vmod), trong(tmp), tương_lai(pob), .(punct)
+Câu 31: Nếu_như Kho dữ_liệu được ví_như trái_tim cung_cấp dữ_liệu thì Trung_tâm điều_hành đô_thị thông_minh được xem là thần_kinh_trung_ương , là nơi tiếp_nhận các vấn_đề phát_sinh từ mọi mặt của xã_hội để tổng_hợp và hỗ_trợ lãnh_đạo TP. HCM đưa ra quyết_sách .
+Dependency: Nếu_như(dep), Kho(sub), dữ_liệu(nmod), được(root), ví_như(sub), trái_tim(nmod), cung_cấp(vmod), dữ_liệu(dob), thì(coord), Trung_tâm(sub), điều_hành(nmod), đô_thị(dob), thông_minh(nmod), được(conj), xem(vmod), là(vmod), thần_kinh_trung_ương(dob), ,(punct), là(vmod), nơi(loc), tiếp_nhận(nmod), các(det), vấn_đề(dob), phát_sinh(nmod), từ(vmod), mọi(det), mặt(pob), của(nmod), xã_hội(pob), để(prp), tổng_hợp(vmod), và(coord), hỗ_trợ(conj), lãnh_đạo(dob), TP.(nmod), HCM(nmod), đưa(vmod), ra(adv), quyết_sách(dob), .(punct)
+Câu 32: Ngoài_ra Trung_tâm còn kết_nối thông_tin tổng_hợp từ Hệ_thống tiếp_nhận và phản_ánh sự_cố hạ_tầng kỹ_thuật đô_thị 1022 , từng bước nâng_cấp hệ_thống đầu số 1022 thành Cổng thông_tin tiếp_nhận và giải_đáp thông_tin cho người_dân qua 6 kênh phản_ánh ( gọi điện_thoại , nhắn_tin sms , gửi email , web app , mobile app , facebook ) .
+Dependency: Ngoài_ra(dep), Trung_tâm(sub), còn(adv), kết_nối(root), thông_tin(dob), tổng_hợp(nmod), từ(vmod), Hệ_thống(pob), tiếp_nhận(nmod), và(coord), phản_ánh(conj), sự_cố(dob), hạ_tầng(nmod), kỹ_thuật(nmod), đô_thị(nmod), 1022(det), ,(punct), từng(det), bước(sub), nâng_cấp(nmod), hệ_thống(nmod), đầu(nmod), số(nmod), 1022(det), thành(dep), Cổng(dob), thông_tin(nmod), tiếp_nhận(nmod), và(coord), giải_đáp(conj), thông_tin(dob), cho(iob), người_dân(pob), qua(mnr), 6(det), kênh(pob), phản_ánh(nmod), ((punct), gọi(vmod), điện_thoại(dob), ,(punct), nhắn_tin(vmod), sms(dob), ,(punct), gửi(vmod), email(dob), ,(punct), web(nmod), app(nmod), ,(punct), mobile(nmod), app(nmod), ,(punct), facebook(nmod), )(punct), .(punct)
+Câu 33: Trung_tâm điều_hành đô_thị thông_minh còn có :
+Dependency: Trung_tâm(sub), điều_hành(nmod), đô_thị(nmod), thông_minh(nmod), còn(adv), có(root), :(punct)
+Câu 34: - Hệ_thống tiếp_nhận và xử_lý thông_tin khẩn_cấp hợp_nhất từ hệ_thống các đầu số tổng_đài 113-114-115 .
+Dependency: -(punct), Hệ_thống(sub), tiếp_nhận(nmod), và(xmdp), xử_lý(conj), thông_tin(dob), khẩn_cấp(nmod), hợp_nhất(nmod), từ(vmod), hệ_thống(pob), các(det), đầu(nmod), số(nmod), tổng_đài(nmod), 113-114-115(det), .(punct)
+Câu 34: Hiện Sở Thông_tin - Truyền_thông , Công_an TP và Sở Y_tế đang triển_khai giải_pháp nâng_cấp hệ_thống tổng_đài khẩn_cấp liên_thông 113 - 114 - 115 và kết_nối hệ_thống chỉ_huy điều_hành của các đơn_vị .
+Dependency: Hiện(tmp), Sở(sub), Thông_tin(nmod), -(punct), Truyền_thông(nmod), ,(punct), Công_an(nmod), TP(nmod), và(nmod), Sở(nmod), Y_tế(nmod), đang(adv), triển_khai(root), giải_pháp(dob), nâng_cấp(nmod), hệ_thống(dob), tổng_đài(nmod), khẩn_cấp(nmod), liên_thông(vmod), 113(tmp), -(punct), 114(det), -(punct), 115(det), và(coord), kết_nối(conj), hệ_thống(dob), chỉ_huy(nmod), điều_hành(vmod), của(nmod), các(det), đơn_vị(pob), .(punct)
+Câu 35: - Hệ_thống quản_lý hạ_tầng đô_thị : từ việc tổng_hợp , kết_nối dữ_liệu hệ_thống lưới_điện , dữ_liệu hệ_thống cấp_nước , dữ_liệu hệ_thống thoát nước , dữ_liệu camera giao_thông và dữ_liệu quan_trắc môi_trường , dữ_liệu hệ_thống camera giao_thông toàn TP - thông_quan trung_tâm điều_hành đô_thị thông_minh - lãnh_đạo TP. HCM có_thể giám_sát chỉ_huy , tiếp_nhận thông_tin đa_phương_tiện , tiếp_nhận thông_tin khẩn_cấp cũng như mở_rộng phạm_vi quản_lý đến tận cấp phường , xã , tăng_cường phối_hợp giữa các đơn_vị .
+Dependency: -(punct), Hệ_thống(root), quản_lý(nmod), hạ_tầng(dob), đô_thị(nmod), :(punct), từ(vmod), việc(pob), tổng_hợp(nmod), ,(punct), kết_nối(vmod), dữ_liệu(dob), hệ_thống(nmod), lưới_điện(nmod), ,(punct), dữ_liệu(nmod), hệ_thống(nmod), cấp_nước(nmod), ,(punct), dữ_liệu(nmod), hệ_thống(nmod), thoát(nmod), nước(vmod), ,(punct), dữ_liệu(nmod), camera(nmod), giao_thông(nmod), và(coord), dữ_liệu(conj), quan_trắc(nmod), môi_trường(dob), ,(punct), dữ_liệu(nmod), hệ_thống(nmod), camera(nmod), giao_thông(nmod), toàn(nmod), TP(nmod), -(punct), thông_quan(nmod), trung_tâm(dob), điều_hành(nmod), đô_thị(nmod), thông_minh(nmod), -(punct), lãnh_đạo(nmod), TP.(nmod), HCM(nmod), có_thể(adv), giám_sát(nmod), chỉ_huy(vmod), ,(punct), tiếp_nhận(vmod), thông_tin(dob), đa_phương_tiện(nmod), ,(punct), tiếp_nhận(vmod), thông_tin(dob), khẩn_cấp(nmod), cũng(amod), như(coord), mở_rộng(conj), phạm_vi(dob), quản_lý(nmod), đến(vmod), tận(loc), cấp(pob), phường(nmod), ,(punct), xã(nmod), ,(punct), tăng_cường(vmod), phối_hợp(vmod), giữa(dob), các(det), đơn_vị(pob), .(punct)
+Câu 36: Trong giai_đoạn từ 2019-2025 , TP. HCM sẽ triển_khai hệ_thống viễn_thông và điện_thoại_di_động thế_hệ 5G : thí_điểm 5G tại các quận 1,7,10 ( Viettel thí_điểm 10 vị_trí , Mobifone thí_điểm 12 vị_trí )
+Dependency: Trong(tmp), giai_đoạn(pob), từ(pmod), 2019-2025(dep), ,(punct), TP.(sub), HCM(nmod), sẽ(adv), triển_khai(root), hệ_thống(dob), viễn_thông(nmod), và(coord), điện_thoại_di_động(conj), thế_hệ(nmod), 5G(det), :(punct), thí_điểm(nmod), 5G(dob), tại(loc), các(det), quận(pob), 1,7,10(det), ((punct), Viettel(nmod), thí_điểm(vmod), 10(det), vị_trí(dob), ,(punct), Mobifone(sub), thí_điểm(vmod), 12(det), vị_trí(dob), )(punct)
+Câu 37: Vào tháng 9-2019 sẽ tổ_chức cuộc_gọi 5G đầu_tiên tại TP.HCM.
+Dependency: Vào(tmp), tháng(pob), 9-2019(det), sẽ(adv), tổ_chức(root), cuộc_gọi(dob), 5G(nmod), đầu_tiên(nmod), tại(loc), TP.HCM.(pob)
+Câu 38: 3 . Trung_tâm mô_phỏng và dự_báo kinh_tế xã_hội .
+Dependency: 3(sub), .(punct), Trung_tâm(sub), mô_phỏng(nmod), và(coord), dự_báo(conj), kinh_tế(dob), xã_hội(nmod), .(punct)
+Câu 39: Đến nay đã hoàn_thành tập tài_liệu tổng_hợp các phương_pháp khoa_học về dự_báo .
+Dependency: Đến(tmp), nay(pob), đã(adv), hoàn_thành(root), tập(vmod), tài_liệu(dob), tổng_hợp(nmod), các(det), phương_pháp(dob), khoa_học(nmod), về(nmod), dự_báo(vmod), .(punct)
+Câu 39: Trên cơ_sở đó đã ứng_dụng các mô_hình dự_báo chuỗi thời_gian để dự_báo một_số chỉ_tiêu kinh_tế xã_hội cho các năm 2019-2020 .
+Dependency: Trên(loc), cơ_sở(pob), đó(det), đã(adv), ứng_dụng(root), các(det), mô_hình(dob), dự_báo(nmod), chuỗi(dob), thời_gian(nmod), để(prp), dự_báo(vmod), một_số(det), chỉ_tiêu(dob), kinh_tế(nmod), xã_hội(nmod), cho(vmod), các(det), năm(pob), 2019-2020(det), .(punct)
+Câu 40: Đội_ngũ xây_dựng trung_tâm này cũng đã ứng_dụng công_nghệ trực_quan_hoá dữ_liệu để xây_dựng bộ trình_diễn dữ_liệu và kết_quả dự_báo xu_hướng phát_triển của các chỉ_số kinh_tế .
+Dependency: Đội_ngũ(sub), xây_dựng(nmod), trung_tâm(dob), này(det), cũng(adv), đã(adv), ứng_dụng(root), công_nghệ(dob), trực_quan_hoá(nmod), dữ_liệu(dob), để(prp), xây_dựng(vmod), bộ(vmod), trình_diễn(nmod), dữ_liệu(dob), và(coord), kết_quả(conj), dự_báo(vmod), xu_hướng(nmod), phát_triển(nmod), của(nmod), các(det), chỉ_số(pob), kinh_tế(nmod), .(punct)
+Câu 41: Khi trung_tâm này được vận_hành , khả_năng dự_báo của nền kinh_tế sẽ có tính chính_xác cao hơn , làm cơ_sở để TP. HCM đề ra những quyết_sách kịp_thời , phù_hợp .
+Dependency: Khi(tmp), trung_tâm(sub), này(det), được(nmod), vận_hành(vmod), ,(punct), khả_năng(sub), dự_báo(nmod), của(nmod), nền(pob), kinh_tế(nmod), sẽ(adv), có(root), tính(dob), chính_xác(nmod), cao(nmod), hơn(amod), ,(punct), làm(vmod), cơ_sở(dob), để(prp), TP.(sub), HCM(nmod), đề(dep), ra(adv), những(det), quyết_sách(dob), kịp_thời(nmod), ,(punct), phù_hợp(nmod), .(punct)
+Câu 42: Phương_hướng sắp tới , trung_tâm sẽ phát_triển mạng_lưới chuyên_gia và tổ_chức hợp_tác về phân_tích , dự_báo , mô_phỏng .
+Dependency: Phương_hướng(sub), sắp(adv), tới(root), ,(punct), trung_tâm(sub), sẽ(adv), phát_triển(dep), mạng_lưới(dob), chuyên_gia(nmod), và(coord), tổ_chức(conj), hợp_tác(nmod), về(vmod), phân_tích(vmod), ,(punct), dự_báo(vmod), ,(punct), mô_phỏng(vmod), .(punct)
+Câu 43: 4 . Trung_tâm an_toàn thông_tin thành_phố .
+Dependency: 4(det), .(punct), Trung_tâm(root), an_toàn(nmod), thông_tin(amod), thành_phố(nmod), .(punct)
+Câu 44: Đến nay , đã có quyết_định phê_duyệt đề_án thành_lập Công_ty cổ_phần vận_hành trung_tâm An_toàn thông_tin TP.HCM.
+Dependency: Đến(tmp), nay(pob), ,(punct), đã(adv), có(root), quyết_định(dob), phê_duyệt(nmod), đề_án(dob), thành_lập(nmod), Công_ty(dob), cổ_phần(nmod), vận_hành(nmod), trung_tâm(dob), An_toàn(nmod), thông_tin(amod), TP.HCM.(nmod)
+Câu 45: Công_ty này có phần vốn Nhà_nước chiếm 51% , ngoài_ra có sự tham_gia góp vốn của các doanh_nghiệp nhà_nước , tư_nhân có kinh ngiệm trong lĩnh_vực an_ninh thông_tin .
+Dependency: Công_ty(sub), này(det), có(root), phần(dob), vốn(nmod), Nhà_nước(nmod), chiếm(nmod), 51%(det), ,(punct), ngoài_ra(x), có(vmod), sự(dob), tham_gia(nmod), góp(nmod), vốn(dob), của(nmod), các(det), doanh_nghiệp(pob), nhà_nước(nmod), ,(punct), tư_nhân(sub), có(dep), kinh(dob), ngiệm(nmod), trong(nmod), lĩnh_vực(pob), an_ninh(nmod), thông_tin(nmod), .(punct)
+Câu 46: B. Những đô_thị thông_minh thu nhỏ .
+Dependency: B.(root), Những(det), đô_thị(nmod), thông_minh(nmod), thu(nmod), nhỏ(vmod), .(punct)
+Câu 47: Quận 1 và quận 12 là hai địa_phương được TP. HCM chọn thí_điểm triển_khai đề_án đô_thị thông_minh .
+Dependency: Quận(sub), 1(det), và(coord), quận(conj), 12(det), là(root), hai(det), địa_phương(dob), được(nmod), TP.(sub), HCM(nmod), chọn(vmod), thí_điểm(vmod), triển_khai(vmod), đề_án(dob), đô_thị(nmod), thông_minh(nmod), .(punct)
+Câu 47: Ngoài_ra trong một_số lĩnh_vực như giao_thông , y_tế , chống ngập , quy_hoạch ... cũng có bước triển_khai ban_đầu các mô_hình , ứng_dụng thông_minh phục_vụ người_dân .
+Dependency: Ngoài_ra(dep), trong(sub), một_số(det), lĩnh_vực(pob), như(coord), giao_thông(conj), ,(punct), y_tế(nmod), ,(punct), chống(nmod), ngập(vmod), ,(punct), quy_hoạch(vmod), ...(punct), cũng(adv), có(root), bước(dob), triển_khai(nmod), ban_đầu(vmod), các(det), mô_hình(dob), ,(punct), ứng_dụng(nmod), thông_minh(vmod), phục_vụ(prp), người_dân(dob), .(punct)
+Câu 48: Đây được xem là quá_trình xây_dựng những đô_thị thông_minh thu nhỏ của TP. Kinh_nghiệm thực_tiễn thu được sau thời_gian thí_điểm sẽ là vốn quý để TP. HCM sơ_kết , đánh_giá , làm cơ_sở cho việc nhân rộng toàn TP.
+Dependency: Đây(sub), được(root), xem(vmod), là(vmod), quá_trình(dob), xây_dựng(nmod), những(det), đô_thị(dob), thông_minh(nmod), thu(nmod), nhỏ(vmod), của(nmod), TP.(pob), Kinh_nghiệm(nmod), thực_tiễn(nmod), thu(nmod), được(adv), sau(tmp), thời_gian(pob), thí_điểm(nmod), sẽ(adv), là(nmod), vốn(dob), quý(nmod), để(prp), TP.(sub), HCM(nmod), sơ_kết(dep), ,(punct), đánh_giá(vmod), ,(punct), làm(vmod), cơ_sở(dob), cho(iob), việc(pob), nhân(nmod), rộng(vmod), toàn(nmod), TP.(nmod)
+Câu 49: 1 . Quá_trình thí_điểm ở quận 12 .
+Dependency: 1(det), .(punct), Quá_trình(root), thí_điểm(nmod), ở(loc), quận(pob), 12(det), .(punct)
+Câu 50: Ông Lê_Trương_Hải_Hiếu , chủ_tịch UBND quận 12 cho biết quận 12 đã xây_dựng trung_tâm chỉ_huy hình_ảnh và an_ninh đặt tại trụ_sở công_an quận .
+Dependency: Ông(sub), Lê_Trương_Hải_Hiếu(nmod), ,(punct), chủ_tịch(nmod), UBND(nmod), quận(nmod), 12(det), cho(root), biết(vmod), quận(sub), 12(det), đã(adv), xây_dựng(vmod), trung_tâm(dob), chỉ_huy(nmod), hình_ảnh(dob), và(coord), an_ninh(conj), đặt(nmod), tại(loc), trụ_sở(pob), công_an(nmod), quận(nmod), .(punct)
+Câu 51: Trung_tâm này tích_hợp 600 camera hiện_hữu tại các khu dân_cư .
+Dependency: Trung_tâm(sub), này(det), tích_hợp(root), 600(det), camera(dob), hiện_hữu(nmod), tại(loc), các(det), khu(pob), dân_cư(nmod), .(punct)
+Câu 51: Hiện quận đang triển_khai giai_đoạn 2 : Sẽ lắp_đặt tiếp 287 camera tại 161 điểm_nóng , vị_trí trọng_điểm và 14 giao_lộ cần giám_sát .
+Dependency: Hiện(tmp), quận(sub), đang(adv), triển_khai(root), giai_đoạn(dob), 2(det), :(punct), Sẽ(adv), lắp_đặt(vmod), tiếp(vmod), 287(det), camera(dob), tại(loc), 161(det), điểm_nóng(pob), ,(punct), vị_trí(nmod), trọng_điểm(nmod), và(nmod), 14(det), giao_lộ(nmod), cần(dep), giám_sát(vmod), .(punct)
+Câu 52: Bên cạnh đó , quận 12 cũng đã triển_khai ứng_dụng Công_nghệ_thông_tin phục_vụ công_tác chỉ_đạo điều_hành :
+Dependency: Bên(adv), cạnh(nmod), đó(det), ,(punct), quận(sub), 12(det), cũng(adv), đã(adv), triển_khai(root), ứng_dụng(vmod), Công_nghệ_thông_tin(dob), phục_vụ(prp), công_tác(dob), chỉ_đạo(nmod), điều_hành(vmod), :(punct)
+Câu 53: - Thực_hiện phần_mềm quản_lý văn_bản và hồ_sơ
+Dependency: -(punct), Thực_hiện(root), phần_mềm(dob), quản_lý(nmod), văn_bản(dob), và(coord), hồ_sơ(conj)
+Câu 54: - Phần_mềm quản_lý hồ_sơ hành_chính
+Dependency: -(punct), Phần_mềm(root), quản_lý(nmod), hồ_sơ(dob), hành_chính(nmod)
+Câu 55: - Hệ_thống quản_lý địa_bàn dân_cư
+Dependency: -(punct), Hệ_thống(root), quản_lý(nmod), địa_bàn(dob), dân_cư(nmod)
+Câu 56: - Hệ_thống thông_tin quy_hoạch
+Dependency: -(punct), Hệ_thống(root), thông_tin(nmod), quy_hoạch(nmod)
+Câu 57: - Ứng_dụng ảnh viễn_thám trong quản_lý đô_thị , tài_nguyên môi_trường
+Dependency: -(punct), Ứng_dụng(sub), ảnh(nmod), viễn_thám(nmod), trong(root), quản_lý(vmod), đô_thị(dob), ,(punct), tài_nguyên(nmod), môi_trường(nmod)
+Câu 58: - Hệ_thống đánh_giá đo_lường hiệu_quả công_việc của cán_bộ , công_chức , viên_chức , quản_lý công_chức qua việc sử_dụng thẻ công_nghệ RFID
+Dependency: -(punct), Hệ_thống(sub), đánh_giá(nmod), đo_lường(root), hiệu_quả(dob), công_việc(nmod), của(nmod), cán_bộ(pob), ,(punct), công_chức(nmod), ,(punct), viên_chức(nmod), ,(punct), quản_lý(nmod), công_chức(dob), qua(mnr), việc(pob), sử_dụng(nmod), thẻ(dob), công_nghệ(nmod), RFID(nmod)
+Câu 59: Để tăng_cường tương_tác với người_dân , doanh_nghiệp , quận 12 triển_khai các giải_pháp như : dịch_vụ công trực_tuyến , thanh_toán trực_tuyến , hệ_thống trả_lời tự_động để hướng_dẫn thủ_tục hành_chính , tiếp_nhận , quản_lý trả_lời phản_ánh của người_dân qua Facebook , Zalo .
+Dependency: Để(root), tăng_cường(vmod), tương_tác(vmod), với(vmod), người_dân(pob), ,(punct), doanh_nghiệp(nmod), ,(punct), quận(nmod), 12(det), triển_khai(vmod), các(det), giải_pháp(dob), như(nmod), :(punct), dịch_vụ(nmod), công(nmod), trực_tuyến(amod), ,(punct), thanh_toán(nmod), trực_tuyến(vmod), ,(punct), hệ_thống(nmod), trả_lời(nmod), tự_động(vmod), để(prp), hướng_dẫn(vmod), thủ_tục(dob), hành_chính(nmod), ,(punct), tiếp_nhận(vmod), ,(punct), quản_lý(vmod), trả_lời(vmod), phản_ánh(vmod), của(vmod), người_dân(pob), qua(mnr), Facebook(pob), ,(punct), Zalo(nmod), .(punct)
+Câu 60: 2 . Quá_trình thí_điểm ở Quận 1 :
+Dependency: 2(det), .(punct), Quá_trình(root), thí_điểm(nmod), ở(loc), Quận(pob), 1(det), :(punct)
+Câu 61: Đã triển_khai Trung_tâm điều_hành đô_thị thông_minh đặt tại trụ_sở UBND quận 1 , tích_hợp hệ_thống camera ở địa_bàn dân_cư và công_an 10 phường với tổng_cộng 750 camera .
+Dependency: Đã(adv), triển_khai(root), Trung_tâm(dob), điều_hành(nmod), đô_thị(dob), thông_minh(nmod), đặt(nmod), tại(loc), trụ_sở(pob), UBND(nmod), quận(nmod), 1(det), ,(punct), tích_hợp(vmod), hệ_thống(dob), camera(nmod), ở(loc), địa_bàn(pob), dân_cư(nmod), và(coord), công_an(nmod), 10(det), phường(nmod), với(vmod), tổng_cộng(pob), 750(det), camera(nmod), .(punct)
+Câu 62: Trong hơn một năm thí_điểm , Trung_tâm điều_hành đô_thị thông_minh đã hỗ_trợ tốt cho quận trong chỉ_đạo , điều_hành , xử_lý các tình_huống phát_sinh , chống bạo_động và các hành_vi gây_rối trật_tự công_cộng .
+Dependency: Trong(tmp), hơn(nmod), một(det), năm(pob), thí_điểm(nmod), ,(punct), Trung_tâm(sub), điều_hành(nmod), đô_thị(dob), thông_minh(nmod), đã(adv), hỗ_trợ(root), tốt(vmod), cho(vmod), quận(pob), trong(loc), chỉ_đạo(vmod), ,(punct), điều_hành(vmod), ,(punct), xử_lý(vmod), các(det), tình_huống(dob), phát_sinh(nmod), ,(punct), chống(nmod), bạo_động(vmod), và(coord), các(det), hành_vi(conj), gây_rối(nmod), trật_tự(vmod), công_cộng(nmod), .(punct)
+Câu 63: 3 . Kết_quả bước_đầu trong lĩnh_vực giao_thông .
+Dependency: 3(det), .(punct), Kết_quả(root), bước_đầu(nmod), trong(nmod), lĩnh_vực(pob), giao_thông(nmod), .(punct)
+Câu 64: - Triển_khai cổng thông_tin giao_thông cung_cấp trực_tuyến cho người_dân về tình_hình giao_thông
+Dependency: -(punct), Triển_khai(root), cổng(dob), thông_tin(nmod), giao_thông(nmod), cung_cấp(vmod), trực_tuyến(vmod), cho(iob), người_dân(pob), về(vmod), tình_hình(pob), giao_thông(nmod)
+Câu 65: - Hệ_thống camera giám_sát giao_thông với 713 camera
+Dependency: -(punct), Hệ_thống(root), camera(nmod), giám_sát(nmod), giao_thông(vmod), với(vmod), 713(det), camera(pob)
+Câu 66: - Nâng_cấp hệ_thống điều_khiển giao_thông hiện_hữu : thay_thế 188 tủ đèn tín_hiệu điều_khiển giao_thông thông_minh , 100 cảm_biến đo_đếm lưu_lượng , 50 camera giám_sát giao_thông , 6 vị_trí kiểm_soát tốc_độ phương_tiện
+Dependency: -(punct), Nâng_cấp(root), hệ_thống(dob), điều_khiển(nmod), giao_thông(dob), hiện_hữu(vmod), :(punct), thay_thế(vmod), 188(det), tủ(dob), đèn(nmod), tín_hiệu(nmod), điều_khiển(nmod), giao_thông(dob), thông_minh(nmod), ,(punct), 100(det), cảm_biến(sub), đo_đếm(dep), lưu_lượng(dob), ,(punct), 50(det), camera(nmod), giám_sát(nmod), giao_thông(vmod), ,(punct), 6(det), vị_trí(nmod), kiểm_soát(nmod), tốc_độ(dob), phương_tiện(nmod)
+Câu 67: - Nâng_cấp hệ_thống thu phí đường_bộ không dừng tại trạm thu phí An_Sương - An_Lạc và cầu Phú_Mỹ .
+Dependency: -(punct), Nâng_cấp(root), hệ_thống(dob), thu(nmod), phí(vmod), đường_bộ(nmod), không(adv), dừng(vmod), tại(loc), trạm(pob), thu(nmod), phí(vmod), An_Sương(nmod), -(punct), An_Lạc(nmod), và(coord), cầu(conj), Phú_Mỹ(nmod), .(punct)
+Câu 68: - Đang triển_khai thí_điểm sử_dụng vé điện_tử smartcard dành cho xe bus .
+Dependency: -(punct), Đang(adv), triển_khai(root), thí_điểm(vmod), sử_dụng(vmod), vé(dob), điện_tử(nmod), smartcard(nmod), dành(vmod), cho(iob), xe(pob), bus(nmod), .(punct)
+Câu 69: - Đang triển_khai ứng_dụng hệ_thống thông_tin địa_lý GIS phục_vụ công_tác quản_lý giao_thông đô_thị .
+Dependency: -(punct), Đang(adv), triển_khai(root), ứng_dụng(vmod), hệ_thống(dob), thông_tin(nmod), địa_lý(nmod), GIS(nmod), phục_vụ(nmod), công_tác(dob), quản_lý(nmod), giao_thông(dob), đô_thị(nmod), .(punct)
+Câu 70: 4 . Kết_quả trong lĩnh_vực giáo_dục .
+Dependency: 4(det), .(punct), Kết_quả(root), trong(nmod), lĩnh_vực(pob), giáo_dục(nmod), .(punct)
+Câu 71: Đã triển_khai thử_nghiệm Cổng thông_tin khai_thác các dịch_vụ giáo_dục tại địa_chỉ http://dichvugiaoduc.hcm.edu.vn cung_cấp thông_tin 6 loại_hình dịch_vụ giáo_dục được cấp phép :
+Dependency: Đã(adv), triển_khai(root), thử_nghiệm(vmod), Cổng(dob), thông_tin(nmod), khai_thác(vmod), các(det), dịch_vụ(dob), giáo_dục(nmod), tại(loc), địa_chỉ(pob), http://dichvugiaoduc.hcm.edu.vn(nmod), cung_cấp(vmod), thông_tin(dob), 6(det), loại_hình(nmod), dịch_vụ(nmod), giáo_dục(nmod), được(vmod), cấp(vmod), phép(dob), :(punct)
+Câu 72: - Trung_tâm ngoại_ngữ tin_học
+Dependency: -(punct), Trung_tâm(root), ngoại_ngữ(nmod), tin_học(nmod)
+Câu 73: - Cơ_sở dạy thêm học thêm
+Dependency: -(punct), Cơ_sở(sub), dạy(nmod), thêm(root), học(vmod), thêm(vmod)
+Câu 74: - Cơ_sở giáo_dục kỹ_năng sống
+Dependency: -(punct), Cơ_sở(root), giáo_dục(nmod), kỹ_năng(nmod), sống(nmod)
+Câu 75: - Đơn_vị tư_vấn du_học
+Dependency: -(punct), Đơn_vị(sub), tư_vấn(nmod), du_học(root)
+Câu 76: - Đơn_vị giáo_dục có yếu_tố nước_ngoài
+Dependency: -(punct), Đơn_vị(sub), giáo_dục(nmod), có(root), yếu_tố(dob), nước_ngoài(nmod)
+Câu 77: - Các trường THPT ngoài công_lập .
+Dependency: -(punct), Các(det), trường(root), THPT(nmod), ngoài(nmod), công_lập(nmod), .(punct)
+Câu 78: 5 . Kết_quả trong lĩnh_vực y_tế .
+Dependency: 5(det), .(punct), Kết_quả(root), trong(nmod), lĩnh_vực(pob), y_tế(nmod), .(punct)
+Câu 79: Triển_khai Cổng thông_tin ngành y_tế cung_cấp thông_tin thuộc các lĩnh_vực khám_chữa bệnh , y_tế dự_phòng , tra_cứu trực_tuyến về giấy_phép , phạm_vi hoạt_động chuyên_môn của người hành_nghề và cơ_sở y_tế .
+Dependency: Triển_khai(root), Cổng(dob), thông_tin(nmod), ngành(nmod), y_tế(nmod), cung_cấp(vmod), thông_tin(dob), thuộc(nmod), các(det), lĩnh_vực(dob), khám_chữa(nmod), bệnh(dob), ,(punct), y_tế(nmod), dự_phòng(nmod), ,(punct), tra_cứu(nmod), trực_tuyến(vmod), về(vmod), giấy_phép(pob), ,(punct), phạm_vi(nmod), hoạt_động(nmod), chuyên_môn(vmod), của(nmod), người(pob), hành_nghề(nmod), và(coord), cơ_sở(conj), y_tế(nmod), .(punct)
+Câu 80: - Triển_khai hệ_thống GIS cho y_tế dự_phòng thí_điểm phòng_chống sốt_xuất_huyết và mở_rộng sang các bệnh truyền_nhiễm khác
+Dependency: -(punct), Triển_khai(root), hệ_thống(dob), GIS(nmod), cho(nmod), y_tế(pob), dự_phòng(nmod), thí_điểm(nmod), phòng_chống(vmod), sốt_xuất_huyết(dob), và(coord), mở_rộng(conj), sang(dir), các(det), bệnh(pob), truyền_nhiễm(nmod), khác(nmod)
+Câu 81: - Triển_khai hội_chẩn từ xa cho 24 trạm y_tế mô_hình điểm .
+Dependency: -(punct), Triển_khai(root), hội_chẩn(vmod), từ(tmp), xa(dep), cho(pmod), 24(det), trạm(pob), y_tế(nmod), mô_hình(nmod), điểm(nmod), .(punct)
+Câu 81: Hỗ_trợ kết_nối giữa bác_sĩ ở các trạm y_tế với bác_sĩ chuyên_khoa bệnh_viện lớn .
+Dependency: Hỗ_trợ(root), kết_nối(vmod), giữa(loc), bác_sĩ(pob), ở(loc), các(det), trạm(pob), y_tế(nmod), với(nmod), bác_sĩ(pob), chuyên_khoa(nmod), bệnh_viện(nmod), lớn(nmod), .(punct)
+Câu 82: - Kết_nối liên_thông cơ_sở_dữ_liệu của trên 6.000 cơ_sở cung_ứng thuốc tại TP. HCM với cơ_sở_dữ_liệu dược quốc_gia .
+Dependency: -(punct), Kết_nối(root), liên_thông(vmod), cơ_sở_dữ_liệu(dob), của(nmod), trên(pob), 6.000(det), cơ_sở(nmod), cung_ứng(nmod), thuốc(dob), tại(loc), TP.(pob), HCM(nmod), với(vmod), cơ_sở_dữ_liệu(pob), dược(nmod), quốc_gia(nmod), .(punct)
+Câu 83: 6 . Kết_quả trong lĩnh_vực chống ngập .
+Dependency: 6(det), .(punct), Kết_quả(root), trong(nmod), lĩnh_vực(pob), chống(nmod), ngập(vmod), .(punct)
+Câu 84: Triển_khai Cổng thông_tin Hệ_thống thoát nước TP. HCM tại địa_chỉ https://chongngap.hochiminhcity.gov.vn với các thông_tin về ngập_lụt , khí_tượng_thuỷ_văn giúp người_dân chủ_động ứng_phó ngập_lụt .
+Dependency: Triển_khai(root), Cổng(dob), thông_tin(nmod), Hệ_thống(nmod), thoát(nmod), nước(vmod), TP.(nmod), HCM(nmod), tại(loc), địa_chỉ(pob), https://chongngap.hochiminhcity.gov.vn(nmod), với(vmod), các(det), thông_tin(pob), về(nmod), ngập_lụt(pob), ,(punct), khí_tượng_thuỷ_văn(nmod), giúp(nmod), người_dân(dob), chủ_động(vmod), ứng_phó(vmod), ngập_lụt(dob), .(punct)
+Câu 85: - Đã hoàn_thành xây_dựng cơ_sở_dữ_liệu mạng_lưới thoát nước ở quận 1 .
+Dependency: -(punct), Đã(adv), hoàn_thành(root), xây_dựng(vmod), cơ_sở_dữ_liệu(dob), mạng_lưới(nmod), thoát(nmod), nước(vmod), ở(loc), quận(pob), 1(det), .(punct)
+Câu 85: Hiện đang mở_rộng bổ_sung sang các quận_huyện còn lại .
+Dependency: Hiện(tmp), đang(adv), mở_rộng(root), bổ_sung(vmod), sang(vmod), các(det), quận_huyện(pob), còn(nmod), lại(adv), .(punct)
+Câu 86: 7 . Kết_quả trong lĩnh_vực quy_hoạch .
+Dependency: 7(sub), .(punct), Kết_quả(root), trong(nmod), lĩnh_vực(pob), quy_hoạch(nmod), .(punct)
+Câu 87: - Đã triển_khai ứng_dụng về Thông_tin quy_hoạch TP. HCM tại địa_chỉ https://thongtinquyhoach.hochiminhcity.gov.vn trong đó cung_cấp dưới dạng bảng đồ hình_ảnh các thông_tin quy_hoạch sử_dụng đất , quy_hoạch giao_thông , quy_hoạch cao_độ nền ... với quy_mô toàn TP và riêng tại khu_vực trung_tâm hiện_hữu TP , khu Thủ_Thiêm , quận 12 và quận Thủ_Đức .
+Dependency: -(punct), Đã(adv), triển_khai(root), ứng_dụng(vmod), về(vmod), Thông_tin(pob), quy_hoạch(nmod), TP.(vmod), HCM(nmod), tại(loc), địa_chỉ(pob), https://thongtinquyhoach.hochiminhcity.gov.vn(nmod), trong(loc), đó(pob), cung_cấp(vmod), dưới(loc), dạng(pob), bảng(nmod), đồ(nmod), hình_ảnh(nmod), các(det), thông_tin(nmod), quy_hoạch(nmod), sử_dụng(vmod), đất(dob), ,(punct), quy_hoạch(vmod), giao_thông(dob), ,(punct), quy_hoạch(vmod), cao_độ(vmod), nền(nmod), ...(punct), với(vmod), quy_mô(pob), toàn(nmod), TP(nmod), và(coord), riêng(dep), tại(loc), khu_vực(pob), trung_tâm(nmod), hiện_hữu(nmod), TP(nmod), ,(punct), khu(nmod), Thủ_Thiêm(nmod), ,(punct), quận(nmod), 12(det), và(coord), quận(conj), Thủ_Đức(nmod), .(punct)
+Câu 88: - Đã xây_dựng hệ_thống dữ_liệu về cao_độ nền dưới dạng_bản đồ hình_ảnh và dữ_liệu số các quận 1,3,6,8,10,11 , Tân_Phú , Phú_Nhuận , Bình_Thạnh , Gò_Vấp .
+Dependency: -(punct), Đã(adv), xây_dựng(root), hệ_thống(dob), dữ_liệu(nmod), về(nmod), cao_độ(pob), nền(nmod), dưới(loc), dạng_bản(pob), đồ(nmod), hình_ảnh(nmod), và(coord), dữ_liệu(conj), số(nmod), các(det), quận(nmod), 1,3,6,8,10,11(det), ,(punct), Tân_Phú(nmod), ,(punct), Phú_Nhuận(nmod), ,(punct), Bình_Thạnh(nmod), ,(punct), Gò_Vấp(nmod), .(punct)
+Câu 88: Đang tiếp_tục bổ_sung các quận_huyện còn lại .
+Dependency: Đang(adv), tiếp_tục(root), bổ_sung(vmod), các(det), quận_huyện(dob), còn(nmod), lại(adv), .(punct)
+Câu 89: Số_liệu về kinh_phí :
+Dependency: Số_liệu(root), về(nmod), kinh_phí(pob), :(punct)
+Câu 90: Năm 2019 : TP. HCM bố_trí 500 tỉ đồng từ ngân_sách sự_nghiệp để thực_hiện đề_án .
+Dependency: Năm(tmp), 2019(det), :(punct), TP.(nmod), HCM(nmod), bố_trí(root), 500(det), tỉ(det), đồng(dob), từ(dob), ngân_sách(pob), sự_nghiệp(nmod), để(prp), thực_hiện(vmod), đề_án(dob), .(punct)
+Câu 90: Cụ_Thể :
+Dependency: Cụ_Thể(root), :(punct)
+Câu 91: Kho dữ_liệu dung chung 405 tỉ đồng .
+Dependency: Kho(root), dữ_liệu(dob), dung(vmod), chung(vmod), 405(det), tỉ(det), đồng(dob), .(punct)
+Câu 92: Trung_tâm điều_hành đô_thị thông_minh 23 tỉ đồng
+Dependency: Trung_tâm(root), điều_hành(nmod), đô_thị(dob), thông_minh(nmod), 23(det), tỉ(det), đồng(nmod)
+Câu 93: Trung_tâm mô_phỏng , dự_báo kinh_tế xã_hội 25 tỉ đồng
+Dependency: Trung_tâm(sub), mô_phỏng(nmod), ,(punct), dự_báo(root), kinh_tế(dob), xã_hội(nmod), 25(det), tỉ(det), đồng(nmod)
+Câu 94: Các nội_dung khác 47 tỉ đồng
+Dependency: Các(det), nội_dung(root), khác(nmod), 47(det), tỉ(det), đồng(nmod)
+Câu 95: Năm 2020 : Nhu_cầu dự_kiến khoảng 511 tỉ đồng trong ngân_sách sự_nghiệp .
+Dependency: Năm(tmp), 2020(det), :(punct), Nhu_cầu(sub), dự_kiến(root), khoảng(nmod), 511(det), tỉ(det), đồng(nmod), trong(vmod), ngân_sách(pob), sự_nghiệp(nmod), .(punct)
+Câu 95: Trong đó :
+Dependency: Trong(root), đó(pob), :(punct)
+Câu 96: Kho dữ_liệu dùng chung 420 tỉ đồng .
+Dependency: Kho(root), dữ_liệu(dob), dùng(vmod), chung(vmod), 420(det), tỉ(det), đồng(vmod), .(punct)
+Câu 97: Trung_tâm điều_hành đô_thị thông_minh 30 tỉ đồng
+Dependency: Trung_tâm(root), điều_hành(nmod), đô_thị(nmod), thông_minh(nmod), 30(det), tỉ(det), đồng(nmod)
+Câu 98: Trung_tâm mô_phỏng , dự_báo kinh_tế xã_hội 25 tỉ đồng
+Dependency: Trung_tâm(sub), mô_phỏng(nmod), ,(punct), dự_báo(root), kinh_tế(dob), xã_hội(nmod), 25(det), tỉ(det), đồng(nmod)
+Câu 99: Các nội_dung khác 36 tỉ đồng
+Dependency: Các(det), nội_dung(root), khác(nmod), 36(det), tỉ(det), đồng(nmod)
+Top 2 Mẫu DEPENDENCY PARSE:
+DEPENDENCY PARSE: Trung_tâm(sub), mô_phỏng(nmod), ,(punct), dự_báo(root), kinh_tế(dob), xã_hội(nmod), 25(det), tỉ(det), đồng(nmod), Số lần xuất hiện: 2
+
+DEPENDENCY PARSE: Thành_Phố(root), Hồ_Chí_Minh(nmod), Và(coord), Hành_Trình(conj), Vươn_Đến_Đô_Thị(nmod), Thông_Minh(nmod), Số lần xuất hiện: 1
+
